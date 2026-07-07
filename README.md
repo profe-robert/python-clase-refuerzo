@@ -1,8 +1,5 @@
-# python-clase-refuerzo
+# 🐍 Clase de Refuerzo
 Este repo contiene el material para una clase de refuerzo del contenido base de Python
-
-```markdown
-# 🐍 Guía Rápida de Python Básico
 
 ## 1. Tipos de Variables
 Las variables son "cajas" donde guardamos información. En Python no necesitas decir de qué tipo es, él lo adivina.
@@ -24,8 +21,6 @@ esta_aprobado = False
 # Para saber el tipo de dato usamos type()
 print(type(edad)) # Salida: <class 'int'>
 ```
-
----
 
 ## 2. Operadores Lógicos y Condicionales (`if`)
 Evalúan condiciones para tomar decisiones.
